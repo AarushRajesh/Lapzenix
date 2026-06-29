@@ -49,6 +49,7 @@ dist/
    - Copy the `firebaseConfig` object — you'll need it soon
 7. **Analytics → Enable Google Analytics** → choose or create a GA4 account
 
+
 ---
 
 ## Phase 2 — Neon PostgreSQL Setup
