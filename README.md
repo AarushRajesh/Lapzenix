@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lapzenix — PC Builds & Services Platform
 
 Live: https://lapzenix.web.app | Admin: https://lapzenix.web.app/admin
